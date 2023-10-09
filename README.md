@@ -39,11 +39,11 @@ The purpose of HealthBlock is to revolutionize healthcare by offering patients r
 
 ## Documentation
 
-[Link to detailed documentation or user guides if available.]-->
+[Link to detailed documentation or user guides if available.]
 
 ## Contributions
 
-We welcome contributions from the community. Please see our [Contribution Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions from the community. Please see our [Contribution Guidelines](CONTRIBUTING.md) for more details.-->
 
 ## License
 
