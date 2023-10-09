@@ -1,5 +1,5 @@
 # HealthBlock
-
+![HealthBlock Logo](logo.png)
 ## Brief Description
 
 HealthBlock is an innovative healthcare application that leverages blockchain technology to empower patients and healthcare providers. It provides secure access to electronic health records (EHR), enables direct communication with healthcare professionals, simplifies appointment management, and ensures the integrity of EHR signatures. HealthBlock is committed to data privacy, transparency, and regulatory compliance.
