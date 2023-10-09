@@ -33,13 +33,13 @@ The purpose of HealthBlock is to revolutionize healthcare by offering patients r
 - **Data Security:** Leverage blockchain's robust security mechanisms to protect patient data from unauthorized access.
 - **Decentralization:** Enhance data availability and reduce single points of failure through a decentralized blockchain network.
 
-## Getting Started
+<!--## Getting Started
 
 [Include instructions here for getting started with HealthBlock, installation, and any essential setup steps.]
 
 ## Documentation
 
-[Link to detailed documentation or user guides if available.]
+[Link to detailed documentation or user guides if available.]-->
 
 ## Contributions
 
@@ -50,5 +50,4 @@ We welcome contributions from the community. Please see our [Contribution Guidel
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
-[Include contact information or links to your project's website or support resources.]
+protonpuluse@gmail.com
